@@ -91,6 +91,4 @@ kubectl apply -f ../kubernetes/
 - Blue-green deployment strategy
 - Advanced security (WAF, zero trust)
 
-## Connect
-- LinkedIn: https://linkedin.com/in/vivekmekala28
-- GitHub: https://github.com/vivekmekala
+
